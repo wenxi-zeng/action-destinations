@@ -44,5 +44,4 @@ register('634ef204885be3def430af66', './playerzero-web')
 register('635ada35ce269dbe305203ff', './logrocket')
 register('6372e18fb2b3d5d741c34bb6', './sabil')
 register('6372e1e36d9c2181f3900834', './wisepops')
-
-
+register('6390d63cda225e7e2ab2ca44', './mobile-test')
