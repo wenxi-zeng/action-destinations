@@ -5,7 +5,7 @@ import type { Payload } from './generated-types'
 // Change from unknown to the partner SDK types
 const action: BrowserActionDefinition<Settings, unknown, Payload> = {
   title: 'Post to Channel',
-  description: '',
+  description: 'post to channel',
   platform: 'web',
   fields: {
     event_name: {
